@@ -75,8 +75,8 @@ git push origin <branch-name>
 
 
 
-## Author - Apoorva Verma
+## Author - Chirag Kataria
 
-- [Linkedin](https://www.linkedin.com/in/apoorva-verma-aa045a202/)
-- [Resume Website](https://apoorva-verma.netlify.app/)
-- [Github](https://github.com/apoorva-01/)
+- [Linkedin](https://www.linkedin.com/in/chirag-kataria-59b37b261/)
+- [Github](https://github.com/chiragkataria0510)
+
